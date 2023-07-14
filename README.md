@@ -16,5 +16,4 @@ Creating Heatmap of the image & obatained pixel frequency
 4. Added equation of pixel intensity using latex
 5. Generate scatter graph from histogram using Plotly
 6. Generate heatmap of the image
-
-## Used jupyter notebook with conda and then convert .ipynb file to html
+7. Used jupyter notebook with conda and then convert .ipynb file to html
