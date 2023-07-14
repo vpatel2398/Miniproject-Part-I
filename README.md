@@ -10,11 +10,11 @@
 Creating Heatmap of the image & obatained pixel frequency
 
 Steps:
-	- load image
-	- create table with pixel and its frequency using matplotlib
-	- generate histogram using matplotlib
-	- added equation of pixel intensity using latex
-	- generate scatter graph from histogram using Plotly
-	- generate heatmap of the image
+# 1. Load image
+# 2. Create table with pixel and its frequency using matplotlib
+# 3. Generate histogram using matplotlib
+# 4. Added equation of pixel intensity using latex
+# 5. Generate scatter graph from histogram using Plotly
+# 6. Generate heatmap of the image
 
-Used jupyter notebook with conda and then convert .ipynb file to html
+## Used jupyter notebook with conda and then convert .ipynb file to html
