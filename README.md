@@ -2,8 +2,8 @@
 
 ## Project members:
 1. Yash Suresh Upadhyay -101378657
-2. Vivek Patel - 101446059
-3. Vishal Patel - 101432083
+2. Vivek Patel - 101432083
+3. Vishal Patel - 101446059
 4. Hetvi Shah - 101439231
 
 ## Project Description:
